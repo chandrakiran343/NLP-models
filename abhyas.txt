@@ -1,0 +1,17 @@
+Abhyas, it is the official LMS platform for VBIT, serving the faculty and thousands of students for
+their regular academic needs. It is built by coding.Studio();, the official Programming club of
+VBIT. The platform is under stable usage for around 4 years and has provided reliable performance
+to the users ever since.
+
+Abhyas is built using Moodle, which is a free and open-source LMS provider written in PHP. It is a learning platform designed to provide educators,
+administrators and learners with a single robust, secure and integrated system to create personalised learning environments.
+
+The total number of users in Abhyas amounts to 8740 with 1288 courses created by the faculty. 24000 activites have been 
+created till now. The activities include, Assignment and tutorial submissions, quizzes etc.
+
+The platform ensures User based access to the resources and configuration which can be customized to better fit our
+college needs. Primary user authentication is provided by "email and password" along with Google OAUTH. Admin panel is provided
+which lets user management, configuration and problem resolving an easy task.
+
+It is deployed using a web server which is hosted in cloud architecture provided by Digital Ocean. It is a robust software
+platform that ensures peak performance even with high concurrency usage. 
